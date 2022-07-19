@@ -5,7 +5,7 @@ Link para acessar o site - [comming soon](https://github.com/Riicky-hub)
 ## Referências
 
 _Fontes do Google Fonts - [GoogleFonts](https://fonts.google.com/)_  
-_Baseado em design do Figma -  [AR Shakir](https://www.figma.com/community/file/1012997791904715053)._  
+_Baseado em design do Figma -  [rizkigunawan](https://www.figma.com/community/file/1012997791904715053)._  
 _Ilustrações e ícones vem do Icons8 - [Icons8](https://icons8.com/)_
 
 ## Developer area

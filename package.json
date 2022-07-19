@@ -1,21 +1,37 @@
 {
   "name": "news_portal",
   "version": "1.0.0",
-  "description": "",
+  "description": "Portal de notícias com meu Tech Stack",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Riicky-hub/News_Portal.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Riicky-hub",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Riicky-hub/News_Portal/issues"
   },
-  "homepage": "https://github.com/Riicky-hub/News_Portal#readme"
+  "homepage": "https://github.com/Riicky-hub/News_Portal#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^4.6.0",
+    "csurf": "^1.11.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "helmet": "^5.1.0",
+    "jquery": "^3.6.0",
+    "mongoose": "^6.4.5",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }

@@ -1,5 +1,12 @@
 // vars
 $fontNews: 'Playfair';
+$fontSizeNormal: 1.5rem;
+$fontSizeBig: 3rem;
+
+// colors
+$gray: #444444;
+$black: #121221;
+$white: #F8F8F8;
 
 // mixins
 @mixin container($upDown) {

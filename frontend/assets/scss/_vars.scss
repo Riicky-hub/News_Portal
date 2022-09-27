@@ -1,0 +1,7 @@
+// vars
+$fontNews: 'Playfair';
+
+// mixins
+@mixin container($upDown) {
+    margin: $upDown 120px;
+}

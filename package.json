@@ -4,7 +4,8 @@
   "description": "Portal de notícias com meu Tech Stack",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "sass": "sass ./frontend/assets/scss/style.scss ./frontend/assets/css/style.css -w"
   },
   "repository": {
     "type": "git",

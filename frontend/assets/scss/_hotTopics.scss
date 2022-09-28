@@ -3,6 +3,7 @@
     &__title {
         font-size: 2.4rem;
         color: $black;
+        margin: 25.7px 0;
     }
     &__items {
         width: 100%;
@@ -26,6 +27,7 @@
             text-align: left;
             width: 35%;
             font-family: $fontNews;
+            margin: 25.7px 0;
             a {
                 color: $white;
                 text-decoration: none;

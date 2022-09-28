@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,300;1,400&display=swap");
+* {
+  margin: 0;
+}
+
 body {
   font-family: "Roboto", sans-serif;
 }
@@ -45,6 +49,7 @@ body {
 .hotTopics__title {
   font-size: 2.4rem;
   color: #121221;
+  margin: 25.7px 0;
 }
 .hotTopics__items {
   width: 100%;
@@ -69,6 +74,7 @@ body {
   text-align: left;
   width: 35%;
   font-family: "Playfair";
+  margin: 25.7px 0;
 }
 .hotTopics__items--newsTitle a {
   color: #F8F8F8;
@@ -108,6 +114,7 @@ body {
 .latest__title {
   font-size: 2.2rem;
   color: #121221;
+  margin: 25.7px 0;
 }
 .latest__news {
   display: grid;
@@ -131,6 +138,18 @@ body {
   color: #444444;
   display: inline;
   margin: 0 20px 0 0;
+}
+
+.footer {
+  width: 100%;
+  background-color: #F8F8F8;
+  padding: 50px 0;
+}
+.footer h4 {
+  font-family: "Playfair";
+  color: #949494;
+  text-align: center;
+  font-size: 1.6rem;
 }
 
 /*# sourceMappingURL=style.css.map */

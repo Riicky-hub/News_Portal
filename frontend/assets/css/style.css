@@ -102,4 +102,35 @@ body {
   text-decoration: none;
 }
 
+.latest {
+  margin: 70px 120px;
+}
+.latest__title {
+  font-size: 2.2rem;
+  color: #121221;
+}
+.latest__news {
+  display: grid;
+  grid: auto/auto auto auto auto;
+  gap: 50px 20px;
+}
+.latest__news--item {
+  display: inline;
+}
+.latest__news--item img {
+  width: 100%;
+  border-radius: 10px;
+}
+.latest__news--item h4 {
+  font-family: "Playfair";
+  font-size: 1.8rem;
+  margin: 15px 0 25px 0;
+}
+.latest__news--item p {
+  margin: 0;
+  color: #444444;
+  display: inline;
+  margin: 0 20px 0 0;
+}
+
 /*# sourceMappingURL=style.css.map */
